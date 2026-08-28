@@ -26,7 +26,7 @@
 ### 🌱 AgriVault
 Agricultural supply chain and inventory management system that streamlines the flow of goods, manages stock, and tracks transactions.
 - **Tech Stack:** Next.js, MongoDB
-- **Links:** [Code](#) | [Live Demo](#)
+- **Links:** [Live Demo](https://agri-vault-pi.vercel.app/)
 
 
 ### 🎓 Smart Utility Portal

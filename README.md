@@ -6,16 +6,14 @@
 <!-- <br/><br/> -->
 
 <!-- Dynamic Neon Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d17,35:002b66,70:0057FF,100:00E5FF&height=200&section=header&text=PRAJWAL%20KUNDAR&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:7C3AED,100:06B6D4&height=200&section=header&text=PRAJWAL%20KUNDAR&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Software+Developer+%E2%80%A2+ML+Enthusiast+%E2%80%A2+Builder;Building+Scalable+Full-Stack+Apps+%26+Intelligent+AI;Under+the+hood+explorer+%E2%80%A2+Problem+Solver;Turning+complex+ideas+into+production-ready+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Software+Developer+%E2%80%A2+ML+Enthusiast;I+Build.+I+Break.+I+Understand.;Full-Stack+%7C+AI%2FML+%7C+DSA;Turning+Ideas+Into+Working+Software)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Identity Quick-Tags -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_MCA-Machine_Learning-001F4D?style=for-the-badge&labelColor=070d19&color=0057FF" />
-  &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%92%BB_Full--Stack-Developer-001F4D?style=for-the-badge&labelColor=070d19&color=00E5FF" />
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0_AI_%2F_ML-Practitioner-001F4D?style=for-the-badge&labelColor=070d19&color=0057FF" />
@@ -33,37 +31,21 @@
 
 <img src="https://raw.githubusercontent.com/PrajwalKundar-2004/PrajwalKundar-2004/main/divider.svg" width="100%" alt="" />
 
-## 👋 About Me
+## 👋 Hi, I'm Prajwal
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td width="55%" valign="middle">
+I'm an **MCA student specializing in Machine Learning** who enjoys turning ideas into practical software.
 
-I am an **MCA student specializing in Machine Learning**, passionate about building reliable software and understanding how systems work under the hood.
+* 💻 **Full-Stack Development** — Building clean, responsive applications with modern web technologies.
+* 🤖 **AI & ML** — Exploring machine learning, computer vision, and NLP through real-world projects.
+* 🧠 **Problem Solving** — Strengthening my **Java, DSA, and problem-solving** skills.
+* 🚀 **Always Building** — Learning by creating, experimenting, and improving one project at a time.
 
-* 🌐 **Full-Stack Craft** — Architecting complete web applications with responsive UIs and robust backend APIs.
-* 🔬 **Under the Hood** — Driven to understand how systems operate, scale, and handle edge cases rather than using black boxes.
-* 🧠 **AI & ML Focus** — Exploring predictive machine learning models, data preprocessing pipelines, and NLP systems.
-* ⚡ **Core Momentum** — Mastering Data Structures & Algorithms, system design, and building production-grade software.
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-```typescript
-// ⚡ developer.ts
-const Prajwal: SoftwareEngineer = {
-  education: "MCA (Machine Learning)",
-  craft: ["Full-Stack", "Backend", "AI/ML"],
-  languages: ["Java", "Python", "JavaScript", "C"],
-  philosophy: "Build • Break • Understand • Ship"
-};
+```java
+class Prajwal {
+    String focus = "Build • Learn • Solve";
+    String[] interests = {"Full-Stack", "AI/ML", "DSA"};
+}
 ```
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/PrajwalKundar-2004/PrajwalKundar-2004/main/divider.svg" width="100%" alt="" />
 
@@ -78,7 +60,7 @@ const Prajwal: SoftwareEngineer = {
 #### 💻 Core Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c" alt="Languages" />
 
-<br/><br/>
+<br/>
 
 #### 🎨 Frontend Architecture
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
@@ -94,7 +76,7 @@ const Prajwal: SoftwareEngineer = {
 #### 🗄️ Databases & Storage
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,redis" alt="Databases" />
 
-<br/><br/>
+<br/>
 
 #### 🤖 AI & Machine Learning
 <p align="center">
@@ -104,7 +86,6 @@ const Prajwal: SoftwareEngineer = {
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NLP-08101E?style=for-the-badge&logo=openai&logoColor=00E5FF&labelColor=08101E" alt="NLP" />
 </p>
-
 <br/>
 
 #### 🛠️ DevOps & Developer Tools
@@ -126,145 +107,138 @@ const Prajwal: SoftwareEngineer = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPMENT-0057FF?style=flat-square&logo=react&logoColor=white" alt="Full Stack" />
+<img src="https://img.shields.io/badge/FULL--STACK-2563EB?style=flat-square&logo=react&logoColor=white" />
 
-Architecting complete web applications end-to-end — bridging responsive frontend interfaces with secure, reliable server APIs and databases.
+Building modern web applications from frontend to backend with clean APIs and databases.
 <br/>
-<sub>`React` • `Next.js` • `Spring Boot` • `Node.js` • `REST APIs`</sub>
 
+<sub> React • Next.js • Spring Boot • Node.js</sub>
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/BACKEND-ENGINEERING-00E5FF?style=flat-square&logo=fastapi&logoColor=black" alt="Backend" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
 
-Designing modular RESTful APIs, authentication layers, business workflows, and high-performance database queries with clean architectural boundaries.
+Exploring machine learning and AI by building practical, intelligent applications.
 <br/>
-<sub>`FastAPI` • `Express.js` • `PostgreSQL` • `MongoDB` • `Redis`</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MACHINE-LEARNING-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-
-Training predictive machine learning models, conducting exploratory feature engineering, and building structured data preprocessing pipelines.
-<br/>
-<sub>`Scikit-learn` • `PyTorch` • `Feature Engineering` • `Model Evaluation`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/AI_%26-NLP_SYSTEMS-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="AI & NLP" />
-
-Implementing Natural Language Processing and intelligent AI systems to build smart classification, extraction, and semantic search capabilities.
-<br/>
-<sub>`NLP` • `Text Classification` • `Intelligent Automation`</sub>
-
+<sub> Python • PyTorch • NLP • Computer Vision </sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROBLEM-SOLVING-00E5FF?style=flat-square&logo=leetcode&logoColor=black" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-06B6D4?style=flat-square&logo=leetcode&logoColor=white" />
 
-Practicing Data Structures & Algorithms regularly to write optimized, memory-efficient, and logically structured computational solutions.
+Strengthening my problem-solving skills through Data Structures & Algorithms.
 <br/>
-<sub>`DSA Mastery` • `Time & Space Optimization` • `Problem Breakdown`</sub>
+
+<sub> Java • DSA • OOP • Algorithms</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/RAPID-PROTOTYPING-0057FF?style=flat-square&logo=docker&logoColor=white" alt="Prototyping" />
+<img src="https://img.shields.io/badge/BUILD%20%26%20SHIP-2563EB?style=flat-square&logo=docker&logoColor=white" />
 
-Transforming raw ideas into working software rapidly through hands-on development, rigorous debugging, and shipping code.
+Turning ideas into working projects, experimenting with new technologies, and continuously improving.
 <br/>
-<sub>`Docker` • `Git / GitHub` • `Postman` • `Iterative Prototyping`</sub>
+
+<sub> Docker • Git • GitHub • Postman</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/PrajwalKundar-2004/PrajwalKundar-2004/main/divider.svg" width="100%" alt="" />
-
-## 🛠️ How I Build
 
 <div align="center">
 
-| 💡 01. Idea | 🧭 02. Explore | 📐 03. Design | ⚡ 04. Build |
-|:---:|:---:|:---:|:---:|
-| Conceptualize & frame the challenge | Research tech & inspect under the hood | Architect clean APIs & schemas | Code, assemble & iterate |
+### ⚡ My Approach
 
-| 💥 05. Break | 🔍 06. Debug | 📈 07. Improve | 🚀 08. Ship |
-|:---:|:---:|:---:|:---:|
-| Test edge cases & stress boundaries | Isolate root causes & solve errors | Optimize time & memory efficiency | Deploy reliable, clean software |
+**💡 Think** → **🔍 Explore** → **🛠️ Build** → **🚀 Improve**
+
+<sub>Understand the problem • Learn the technology • Build the solution • Make it better</sub>
 
 <br/>
 
-> 🛠️ *“Most of my learning happens while building, debugging, and figuring out why something doesn't work.”*
+> *Build it. Break it. Understand it. Make it better.*
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/PrajwalKundar-2004/PrajwalKundar-2004/main/divider.svg" width="100%" alt="" />
 
+<div align="center">
 ## 🎯 Current Focus & Goals
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📚 Currently Exploring
-* 🤖 **Deep Learning & ML** — Neural models, tuning & feature pipelines
-* 💬 **AI / NLP Systems** — Text representations & semantic capabilities
-* 🏗️ **System Design** — High availability, distributed caching & trade-offs
-* 🧱 **Clean Architecture** — Design patterns, testability & modularity
+
+🤖 **Deep Learning & ML**  
+<sub>Neural models, tuning & feature pipelines</sub>
+
+<br/>
+
+💬 **AI / NLP Systems**  
+<sub>Text representations & semantic capabilities</sub>
+
+<br/>
+
+🏗️ **System Design**  
+<sub>High availability, caching & trade-offs</sub>
+
+<br/>
+
+🧱 **Clean Architecture**  
+<sub>Design patterns, testability & modularity</sub>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎯 Target Milestones
-* 🥇 **Strong Software Engineer** — Building resilient, scalable software
-* 🧩 **Master DSA** — Optimal analytical problem solving
-* 🏭 **Production Systems** — Architecting and deploying robust apps
-* 🌍 **Open Source** — Contributing to impactful developer ecosystems
+
+🥇 **Strong Software Engineer**  
+<sub>Resilient & scalable software</sub>
+
+<br/>
+
+🧩 **Master DSA**  
+<sub>Optimal analytical problem solving</sub>
+
+<br/>
+
+🏭 **Production Systems**  
+<sub>Architecting & deploying robust apps</sub>
+
+<br/>
+
+🌍 **Open Source**  
+<sub>Contributing to impactful ecosystems</sub>
 
 </td>
+
 </tr>
 </table>
 
 <br/>
-
+</div>
 <img src="https://raw.githubusercontent.com/PrajwalKundar-2004/PrajwalKundar-2004/main/divider.svg" width="100%" alt="" />
 
-## 💡 Beyond Code
+## 🌍 Beyond Code
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td width="65%" valign="middle">
+<div align="center">
 
-Outside of coding, I'm driven by curiosity — exploring new tools, experimenting with pet projects, and turning interesting problems into working software just to discover how they work.
+✈️ **Travel & Explore** &nbsp; • &nbsp; 🎧 **Music & Moments** &nbsp; • &nbsp; 📚 **Continuous Learning**  
+ 🌱 **Stay Curious** &nbsp; • &nbsp; 🚀 **Try Something New**
 
-> 🌊 *“Somewhere between learning something new and solving a problem, another project idea usually appears.”*
+<br/>
 
-</td>
-<td width="35%" valign="middle" align="center">
+> *“There’s always something new to see, learn, and experience.”*
 
-```bash
-$ prajwal --mindset
-> Learn it.
-> Build it.
-> Break it.
-> Understand it.
-> Improve it.
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -275,19 +249,19 @@ $ prajwal --mindset
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/PrajwalKundar-2004/PrajwalKundar-2004/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/prajwal-k-2b212b26b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR-PORTFOLIO-URL">
+  <!-- <a href="YOUR-PORTFOLIO-URL">
     <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL">
+  &nbsp;&nbsp; -->
+  <a href="prajwalkundar8746@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>

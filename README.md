@@ -249,21 +249,22 @@ Turning ideas into working projects, experimenting with new technologies, and co
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/PrajwalKundar-2004/PrajwalKundar-2004/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://prajwalkundar-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+ 
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prajwal-k-2b212b26b/">
+  <a href="https://www.linkedin.com/in/prajwal-k-2b212b26b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <!-- <a href="YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://leetcode.com/u/Prajwal_Kundar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  &nbsp;&nbsp; -->
+  &nbsp;&nbsp;
   <a href="mailto:prajwalkundar8746@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
